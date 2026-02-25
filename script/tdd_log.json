@@ -84,9 +84,71 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "21103a8fb313f08f317a9ee6c9114fa7d5a8740f",
     "commitName": "Refactoring: class Tennis",
     "commitTimestamp": 1772019727114,
     "testId": 2
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1772019843988,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1772019886313,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 2,
+    "numTotalTests": 3,
+    "timestamp": 1772020146604,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1772020197596,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1772020263563,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 1,
+    "numTotalTests": 3,
+    "timestamp": 1772020351041,
+    "success": false,
+    "testId": 3
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1772020475472,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: toma en cuenta que jugador 1 anote",
+    "commitTimestamp": 1772020497515,
+    "testId": 3
   }
 ]

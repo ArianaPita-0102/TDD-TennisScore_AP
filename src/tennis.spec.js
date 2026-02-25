@@ -5,4 +5,10 @@ describe("Tennis", () => {
     let tennis = new Tennis();
     expect(tennis.score()).toEqual("love - love");
   });
+
+  it("deberia mostrar 15 si el primer jugador anota", () => {
+    let tennis = new Tennis();
+    tennis.player1Scores();
+    expect(tennis.score()).toEqual("15 - love");
+  });
 });

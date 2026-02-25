@@ -38,12 +38,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "21103a8fb313f08f317a9ee6c9114fa7d5a8740f",
     "author": "Israel Antezana Rojas",
     "commit": {
       "date": "2026-02-25T11:42:06.000Z",
       "message": "Refactoring: class Tennis",
-      "url": "https://github.com/israelantezana/2026-1-prueba-tennis-baseproject/commit/HEAD"
+      "url": "https://github.com/israelantezana/2026-1-prueba-tennis-baseproject/commit/21103a8fb313f08f317a9ee6c9114fa7d5a8740f"
     },
     "stats": {
       "total": 13,
@@ -53,6 +53,25 @@
     },
     "coverage": 100,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2026-02-25T11:54:56.000Z",
+      "message": "feat: toma en cuenta que jugador 1 anote",
+      "url": "https://github.com/israelantezana/2026-1-prueba-tennis-baseproject/commit/HEAD"
+    },
+    "stats": {
+      "total": 18,
+      "additions": 17,
+      "deletions": 1,
+      "date": "2026-02-25"
+    },
+    "coverage": 100,
+    "test_count": 3,
     "failed_tests": 0,
     "conclusion": "success"
   }
