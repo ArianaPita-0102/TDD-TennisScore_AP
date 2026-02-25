@@ -1,7 +1,8 @@
-import score from "./tennis.js";
+import Tennis from "./tennis.js";
 
 describe("Tennis", () => {
   it("deberia iniciar con love - love", () => {
-    expect(score()).toEqual("love - love");
+    let tennis = new Tennis();
+    expect(tennis.score()).toEqual("love - love");
   });
 });

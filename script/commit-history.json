@@ -19,16 +19,35 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "104e21703521b7384c9bbccf9ff6d39d46f2cc56",
     "author": "Israel Antezana Rojas",
     "commit": {
       "date": "2026-02-25T11:34:55.000Z",
       "message": "refactoring: move method",
-      "url": "https://github.com/israelantezana/2026-1-prueba-tennis-baseproject/commit/HEAD"
+      "url": "https://github.com/israelantezana/2026-1-prueba-tennis-baseproject/commit/104e21703521b7384c9bbccf9ff6d39d46f2cc56"
     },
     "stats": {
       "total": 11,
       "additions": 6,
+      "deletions": 5,
+      "date": "2026-02-25"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2026-02-25T11:42:06.000Z",
+      "message": "Refactoring: class Tennis",
+      "url": "https://github.com/israelantezana/2026-1-prueba-tennis-baseproject/commit/HEAD"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 8,
       "deletions": 5,
       "date": "2026-02-25"
     },
