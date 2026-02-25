@@ -114,12 +114,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "551061c933ac07c231f8b084a9bb2b00508f23d1",
     "author": "Israel Antezana Rojas",
     "commit": {
       "date": "2026-02-25T12:06:20.000Z",
       "message": "feat: jugador 2 anota 1 vez",
-      "url": "https://github.com/israelantezana/2026-1-prueba-tennis-baseproject/commit/HEAD"
+      "url": "https://github.com/israelantezana/2026-1-prueba-tennis-baseproject/commit/551061c933ac07c231f8b084a9bb2b00508f23d1"
     },
     "stats": {
       "total": 16,
@@ -129,6 +129,25 @@
     },
     "coverage": 100,
     "test_count": 6,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2026-02-25T12:07:47.000Z",
+      "message": "feat: jugador 2 anota dos veces",
+      "url": "https://github.com/israelantezana/2026-1-prueba-tennis-baseproject/commit/HEAD"
+    },
+    "stats": {
+      "total": 9,
+      "additions": 9,
+      "deletions": 0,
+      "date": "2026-02-25"
+    },
+    "coverage": 100,
+    "test_count": 7,
     "failed_tests": 0,
     "conclusion": "success"
   }
