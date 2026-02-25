@@ -198,9 +198,47 @@
     "testId": 5
   },
   {
-    "commitId": "HEAD",
+    "commitId": "06930caa7ab16fc1c7feba7b15a89c4936e6759e",
     "commitName": "feat: jugador 1 anota 3 veces",
     "commitTimestamp": 1772020834966,
     "testId": 5
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 0,
+    "numTotalTests": 5,
+    "timestamp": 1772020919598,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 2,
+    "numTotalTests": 6,
+    "timestamp": 1772021003870,
+    "success": false,
+    "testId": 6
+  },
+  {
+    "numPassedTests": 5,
+    "failedTests": 1,
+    "numTotalTests": 6,
+    "timestamp": 1772021138947,
+    "success": false,
+    "testId": 6
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1772021157773,
+    "success": true,
+    "testId": 6
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: jugador 2 anota 1 vez",
+    "commitTimestamp": 1772021180669,
+    "testId": 6
   }
 ]
