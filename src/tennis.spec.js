@@ -38,4 +38,12 @@ describe("Tennis", () => {
     tennis.player2Scores();
     expect(tennis.score()).toEqual("love - 30");
   });
+
+  it("deberia mostrar love - 40 si el segundo jugador anota 3 veces", () => {
+    let tennis = new Tennis();
+    tennis.player2Scores();
+    tennis.player2Scores();
+    tennis.player2Scores();
+    expect(tennis.score()).toEqual("love - 40");
+  });
 });
