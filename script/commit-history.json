@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Israel Antezana Rojas",
+    "commit": {
+      "date": "2026-02-25T11:28:05.000Z",
+      "message": "feat: marcador inicia con love - love",
+      "url": "https://github.com/israelantezana/2026-1-prueba-tennis-baseproject/commit/HEAD"
+    },
+    "stats": {
+      "total": 11,
+      "additions": 11,
+      "deletions": 0,
+      "date": "2026-02-25"
+    },
+    "coverage": 100,
+    "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]

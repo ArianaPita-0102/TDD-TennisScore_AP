@@ -1,0 +1,40 @@
+[
+  {
+    "numPassedTests": 1,
+    "failedTests": 0,
+    "numTotalTests": 1,
+    "timestamp": 1772018738578,
+    "success": true,
+    "testId": 0
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 1,
+    "numTotalTests": 2,
+    "timestamp": 1772018828468,
+    "success": false,
+    "testId": 0
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 1,
+    "numTotalTests": 2,
+    "timestamp": 1772018849342,
+    "success": false,
+    "testId": 0
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1772018860950,
+    "success": true,
+    "testId": 0
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: marcador inicia con love - love",
+    "commitTimestamp": 1772018887107,
+    "testId": 0
+  }
+]
