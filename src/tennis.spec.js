@@ -18,4 +18,12 @@ describe("Tennis", () => {
     tennis.player1Scores();
     expect(tennis.score()).toEqual("30 - love");
   });
+
+  it("deberia mostrar 40 si el primer jugador anota tres veces", () => {
+    let tennis = new Tennis();
+    tennis.player1Scores();
+    tennis.player1Scores();
+    tennis.player1Scores();
+    expect(tennis.score()).toEqual("40 - love");
+  });
 });
