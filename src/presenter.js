@@ -2,8 +2,12 @@ import Tennis from "./tennis.js";
 
 const player1Input = document.querySelector("#player1");
 const player2Input = document.querySelector("#player2");
-const form = document.querySelector("#marcador-form");
+const scorePlayer1Span = document.querySelector("#score-player1");
+const scorePlayer2Span = document.querySelector("#score-player2");
+
 const resultadoDiv = document.querySelector("#resultado-div");
+
+const form = document.querySelector("#marcador-form");
 
 form.addEventListener("submit", (event) => {
   event.preventDefault();
@@ -13,15 +17,16 @@ form.addEventListener("submit", (event) => {
 
   const game = new Tennis();
 
-  // Simular puntos del player 1
   for (let i = 0; i < puntosPlayer1; i++) {
     game.player1Scores();
   }
 
-  // Simular puntos del player 2
   for (let i = 0; i < puntosPlayer2; i++) {
     game.player2Scores();
   }
+
+  scorePlayer1Span.textContent = puntosPlayer1;
+  scorePlayer2Span.textContent = puntosPlayer2;
 
   resultadoDiv.textContent = game.score();
 });
