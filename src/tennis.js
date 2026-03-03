@@ -31,6 +31,10 @@ class Tennis {
     if (this.player2 == 3) {
       player2Score = "40";
     }
+
+    if (this.player1 == 4 && this.player2 == 0){
+      return "Game for player 1"
+    }
     return player1Score + " - " + player2Score;
   }
 }

@@ -152,12 +152,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "6fb8a7fda379432e9bd42c1116f964cd472f9d1a",
     "author": "Israel Antezana Rojas",
     "commit": {
       "date": "2026-02-25T12:09:36.000Z",
       "message": "feat: jugador 2 anota 3 veces",
-      "url": "https://github.com/israelantezana/2026-1-prueba-tennis-baseproject/commit/HEAD"
+      "url": "https://github.com/israelantezana/2026-1-prueba-tennis-baseproject/commit/6fb8a7fda379432e9bd42c1116f964cd472f9d1a"
     },
     "stats": {
       "total": 12,
@@ -167,6 +167,25 @@
     },
     "coverage": 100,
     "test_count": 8,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ArianaPita-0102",
+    "commit": {
+      "date": "2026-03-03T01:55:20.000Z",
+      "message": "feat: player 1 wins with 4 points",
+      "url": "https://github.com/ArianaPita-0102/TDD-TennisScore_AP/commit/HEAD"
+    },
+    "stats": {
+      "total": 42,
+      "additions": 40,
+      "deletions": 2,
+      "date": "2026-03-03"
+    },
+    "coverage": 100,
+    "test_count": 9,
     "failed_tests": 0,
     "conclusion": "success"
   }
