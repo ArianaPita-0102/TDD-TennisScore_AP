@@ -1,4 +1,4 @@
-#### Comandos creados en package json:
+#### Comandos creados en package json: 
 
 #### Para instalar las dependencias:
 

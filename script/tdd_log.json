@@ -482,9 +482,15 @@
     "testId": 15
   },
   {
-    "commitId": "HEAD",
+    "commitId": "4e8a3323986f4348d9023c170c283ea052a922bf",
     "commitName": "feat: jugador 2 gana luego de Deuce",
     "commitTimestamp": 1772504627946,
     "testId": 15
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: delete unnecessary text in README",
+    "commitTimestamp": 1772506102286,
+    "testId": 16
   }
 ]
