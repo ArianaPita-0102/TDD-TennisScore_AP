@@ -348,9 +348,31 @@
     "testId": 10
   },
   {
-    "commitId": "HEAD",
+    "commitId": "653321c7c6dbfc675a3bbee535ceeb27485f2d60",
     "commitName": "feat: add player 2 wins with 4 points",
     "commitTimestamp": 1772503025467,
     "testId": 10
+  },
+  {
+    "numPassedTests": 10,
+    "failedTests": 1,
+    "numTotalTests": 11,
+    "timestamp": 1772503288854,
+    "success": false,
+    "testId": 11
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 0,
+    "numTotalTests": 11,
+    "timestamp": 1772503334551,
+    "success": true,
+    "testId": 11
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: add Deuce situation (ambos jugadores 3 puntos)",
+    "commitTimestamp": 1772503372090,
+    "testId": 11
   }
 ]

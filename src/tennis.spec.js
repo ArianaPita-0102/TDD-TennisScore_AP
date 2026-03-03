@@ -65,4 +65,19 @@ describe("Tennis", () => {
     tennis.player2Scores();
     expect(tennis.score()).toEqual("Game for player 2");
   });
+
+  
+  it("deberia mostrar Deuce si ambos jugadores anotaron 3 veces", () => {
+    let tennis = new Tennis();
+
+    tennis.player1Scores();
+    tennis.player1Scores();
+    tennis.player1Scores();
+
+    tennis.player2Scores();
+    tennis.player2Scores();
+    tennis.player2Scores();
+  
+    expect(tennis.score()).toEqual("Deuce");
+  });
 });
