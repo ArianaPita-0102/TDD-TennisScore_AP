@@ -209,12 +209,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "9b38ac34ae1bdda7d965e76c8bd1ba819f6327e8",
     "author": "ArianaPita-0102",
     "commit": {
       "date": "2026-03-03T02:02:51.000Z",
       "message": "feat: add Deuce situation (ambos jugadores 3 puntos)",
-      "url": "https://github.com/ArianaPita-0102/TDD-TennisScore_AP/commit/HEAD"
+      "url": "https://github.com/ArianaPita-0102/TDD-TennisScore_AP/commit/9b38ac34ae1bdda7d965e76c8bd1ba819f6327e8"
     },
     "stats": {
       "total": 23,
@@ -224,6 +224,25 @@
     },
     "coverage": 100,
     "test_count": 11,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ArianaPita-0102",
+    "commit": {
+      "date": "2026-03-03T02:07:01.000Z",
+      "message": "feat: ventaja para player 2 luego de Deuce",
+      "url": "https://github.com/ArianaPita-0102/TDD-TennisScore_AP/commit/HEAD"
+    },
+    "stats": {
+      "total": 40,
+      "additions": 40,
+      "deletions": 0,
+      "date": "2026-03-03"
+    },
+    "coverage": 100,
+    "test_count": 13,
     "failed_tests": 0,
     "conclusion": "success"
   }

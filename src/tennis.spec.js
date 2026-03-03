@@ -80,4 +80,36 @@ describe("Tennis", () => {
   
     expect(tennis.score()).toEqual("Deuce");
   });
+
+
+  it("Debería mostrar Advantage for player 1 si el juego estaba en Deuce y jugador 1 anota", () => {
+    let tennis = new Tennis();
+
+    tennis.player1Scores();
+    tennis.player1Scores();
+    tennis.player1Scores();
+    tennis.player1Scores();
+
+    tennis.player2Scores();
+    tennis.player2Scores();
+    tennis.player2Scores();
+  
+    expect(tennis.score()).toEqual("Advantage for player 1");
+  });
+
+
+  it("Debería mostrar Advantage for player 2 si el juego estaba en Deuce y jugador 2 anota", () => {
+    let tennis = new Tennis();
+
+    tennis.player1Scores();
+    tennis.player1Scores();
+    tennis.player1Scores();
+
+    tennis.player2Scores();
+    tennis.player2Scores();
+    tennis.player2Scores();
+    tennis.player2Scores();
+  
+    expect(tennis.score()).toEqual("Advantage for player 2");
+  });
 });

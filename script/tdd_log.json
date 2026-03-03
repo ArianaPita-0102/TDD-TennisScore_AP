@@ -370,9 +370,55 @@
     "testId": 11
   },
   {
-    "commitId": "HEAD",
+    "commitId": "9b38ac34ae1bdda7d965e76c8bd1ba819f6327e8",
     "commitName": "feat: add Deuce situation (ambos jugadores 3 puntos)",
     "commitTimestamp": 1772503372090,
     "testId": 11
+  },
+  {
+    "numPassedTests": 11,
+    "failedTests": 1,
+    "numTotalTests": 12,
+    "timestamp": 1772503483021,
+    "success": false,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 12,
+    "failedTests": 0,
+    "numTotalTests": 12,
+    "timestamp": 1772503514455,
+    "success": true,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 12,
+    "failedTests": 1,
+    "numTotalTests": 13,
+    "timestamp": 1772503562294,
+    "success": false,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 12,
+    "failedTests": 1,
+    "numTotalTests": 13,
+    "timestamp": 1772503581817,
+    "success": false,
+    "testId": 12
+  },
+  {
+    "numPassedTests": 13,
+    "failedTests": 0,
+    "numTotalTests": 13,
+    "timestamp": 1772503591660,
+    "success": true,
+    "testId": 12
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: ventaja para player 2 luego de Deuce",
+    "commitTimestamp": 1772503621467,
+    "testId": 12
   }
 ]
