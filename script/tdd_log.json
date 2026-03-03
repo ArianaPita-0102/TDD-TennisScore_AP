@@ -488,9 +488,15 @@
     "testId": 15
   },
   {
-    "commitId": "HEAD",
+    "commitId": "32c907bd740f3947434ea8d2f74fd0c75e09543b",
     "commitName": "feat: delete unnecessary text in README",
     "commitTimestamp": 1772506102286,
     "testId": 16
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "fix: mejorar operador logico para determinar jugador ganador",
+    "commitTimestamp": 1772506156174,
+    "testId": 17
   }
 ]

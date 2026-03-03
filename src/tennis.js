@@ -57,11 +57,11 @@ class Tennis {
         return "Advantage for player 2";
       }
 
-      if (this.player1 === this.player2 + 2){
+      if (this.player1 >= this.player2 + 2){
         return "Game for player 1";
       }
 
-      if (this.player2 === this.player1 + 2){
+      if (this.player2 >= this.player1 + 2){
         return "Game for player 2";
       }
         
