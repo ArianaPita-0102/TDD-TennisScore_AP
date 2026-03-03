@@ -528,9 +528,15 @@
     "testId": 19
   },
   {
-    "commitId": "HEAD",
+    "commitId": "3dc70b2f946432b348aea1d39a81f7211e542e6c",
     "commitName": "feat: add botones para actualizar puntos de jugadores",
     "commitTimestamp": 1772508128262,
     "testId": 20
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: add botones para actualizar puntos de jugadores",
+    "commitTimestamp": 1772508182975,
+    "testId": 21
   }
 ]
