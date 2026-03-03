@@ -361,17 +361,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "43f07e6443a4d823962f9b2bee8dc881a1429e52",
     "author": "ArianaPita-0102",
     "commit": {
       "date": "2026-03-03T03:18:30.000Z",
       "message": "feat: add botones para actualizar puntos de jugadores",
-      "url": "https://github.com/ArianaPita-0102/TDD-TennisScore_AP/commit/HEAD"
+      "url": "https://github.com/ArianaPita-0102/TDD-TennisScore_AP/commit/43f07e6443a4d823962f9b2bee8dc881a1429e52"
     },
     "stats": {
       "total": 16,
       "additions": 8,
       "deletions": 8,
+      "date": "2026-03-03"
+    },
+    "coverage": 100,
+    "test_count": 15,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ArianaPita-0102",
+    "commit": {
+      "date": "2026-03-03T03:22:08.000Z",
+      "message": "feat: add botones para actualizar puntos de jugadores",
+      "url": "https://github.com/ArianaPita-0102/TDD-TennisScore_AP/commit/HEAD"
+    },
+    "stats": {
+      "total": 2,
+      "additions": 0,
+      "deletions": 2,
       "date": "2026-03-03"
     },
     "coverage": 100,
