@@ -35,6 +35,10 @@ class Tennis {
     if (this.player1 == 4 && this.player2 == 0){
       return "Game for player 1"
     }
+
+    if (this.player2 == 4 && this.player1 == 0){
+      return "Game for player 2"
+    }
     return player1Score + " - " + player2Score;
   }
 }

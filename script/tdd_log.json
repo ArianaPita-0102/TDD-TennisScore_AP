@@ -326,9 +326,31 @@
     "testId": 9
   },
   {
-    "commitId": "HEAD",
+    "commitId": "98053f2bd3fefbaa928f6c70b8e0139e7809b06f",
     "commitName": "feat: player 1 wins with 4 points",
     "commitTimestamp": 1772502920337,
     "testId": 9
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 1,
+    "numTotalTests": 10,
+    "timestamp": 1772502964092,
+    "success": false,
+    "testId": 10
+  },
+  {
+    "numPassedTests": 10,
+    "failedTests": 0,
+    "numTotalTests": 10,
+    "timestamp": 1772502995610,
+    "success": true,
+    "testId": 10
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: add player 2 wins with 4 points",
+    "commitTimestamp": 1772503025467,
+    "testId": 10
   }
 ]
