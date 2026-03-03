@@ -266,12 +266,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "0240a8302ab5407f638db8faab76aa61b43f33d1",
     "author": "ArianaPita-0102",
     "commit": {
       "date": "2026-03-03T02:22:12.000Z",
       "message": "feat: jugador 1 gana luego de Deuce",
-      "url": "https://github.com/ArianaPita-0102/TDD-TennisScore_AP/commit/HEAD"
+      "url": "https://github.com/ArianaPita-0102/TDD-TennisScore_AP/commit/0240a8302ab5407f638db8faab76aa61b43f33d1"
     },
     "stats": {
       "total": 32,
@@ -281,6 +281,25 @@
     },
     "coverage": 100,
     "test_count": 14,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "ArianaPita-0102",
+    "commit": {
+      "date": "2026-03-03T02:23:47.000Z",
+      "message": "feat: jugador 2 gana luego de Deuce",
+      "url": "https://github.com/ArianaPita-0102/TDD-TennisScore_AP/commit/HEAD"
+    },
+    "stats": {
+      "total": 21,
+      "additions": 21,
+      "deletions": 0,
+      "date": "2026-03-03"
+    },
+    "coverage": 100,
+    "test_count": 15,
     "failed_tests": 0,
     "conclusion": "success"
   }

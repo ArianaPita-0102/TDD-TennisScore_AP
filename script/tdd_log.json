@@ -460,9 +460,31 @@
     "testId": 14
   },
   {
-    "commitId": "HEAD",
+    "commitId": "0240a8302ab5407f638db8faab76aa61b43f33d1",
     "commitName": "feat: jugador 1 gana luego de Deuce",
     "commitTimestamp": 1772504532257,
     "testId": 14
+  },
+  {
+    "numPassedTests": 14,
+    "failedTests": 1,
+    "numTotalTests": 15,
+    "timestamp": 1772504576555,
+    "success": false,
+    "testId": 15
+  },
+  {
+    "numPassedTests": 15,
+    "failedTests": 0,
+    "numTotalTests": 15,
+    "timestamp": 1772504611244,
+    "success": true,
+    "testId": 15
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: jugador 2 gana luego de Deuce",
+    "commitTimestamp": 1772504627946,
+    "testId": 15
   }
 ]
