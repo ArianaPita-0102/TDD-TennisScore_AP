@@ -416,9 +416,23 @@
     "testId": 12
   },
   {
-    "commitId": "HEAD",
+    "commitId": "3dd621637d5318925ec2945f5f4d528269e5912a",
     "commitName": "feat: ventaja para player 2 luego de Deuce",
     "commitTimestamp": 1772503621467,
     "testId": 12
+  },
+  {
+    "numPassedTests": 13,
+    "failedTests": 0,
+    "numTotalTests": 13,
+    "timestamp": 1772503897045,
+    "success": true,
+    "testId": 13
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "refactor: replace hardcoded score cases with difference-based rules",
+    "commitTimestamp": 1772504167000,
+    "testId": 13
   }
 ]

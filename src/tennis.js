@@ -40,16 +40,17 @@ class Tennis {
       return "Game for player 2"
     }
 
-    if (this.player1 == 3 && this.player2 == 3){
-      return "Deuce"
-    }
 
-    if (this.player1 == 4 && this.player2 == 3){
-      return "Advantage for player 1"
-    }
+    if (this.player1 >= 3 && this.player2 >= 3) {
 
-    if (this.player2 == 4 && this.player1 == 3){
-      return "Advantage for player 2"
+      if (this.player1 === this.player2)
+        return "Deuce";
+
+      if (this.player1 === this.player2 + 1)
+        return "Advantage for player 1";
+
+      if (this.player2 === this.player1 + 1)
+        return "Advantage for player 2";
     }
 
     return player1Score + " - " + player2Score;
