@@ -430,9 +430,39 @@
     "testId": 13
   },
   {
-    "commitId": "HEAD",
+    "commitId": "ea759e4b5ea9f828cf10581913ff4dd4c81d6a14",
     "commitName": "refactor: replace hardcoded score cases with difference-based rules",
     "commitTimestamp": 1772504167000,
     "testId": 13
+  },
+  {
+    "numPassedTests": 13,
+    "failedTests": 1,
+    "numTotalTests": 14,
+    "timestamp": 1772504440258,
+    "success": false,
+    "testId": 14
+  },
+  {
+    "numPassedTests": 13,
+    "failedTests": 1,
+    "numTotalTests": 14,
+    "timestamp": 1772504494587,
+    "success": false,
+    "testId": 14
+  },
+  {
+    "numPassedTests": 14,
+    "failedTests": 0,
+    "numTotalTests": 14,
+    "timestamp": 1772504505403,
+    "success": true,
+    "testId": 14
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: jugador 1 gana luego de Deuce",
+    "commitTimestamp": 1772504532257,
+    "testId": 14
   }
 ]
