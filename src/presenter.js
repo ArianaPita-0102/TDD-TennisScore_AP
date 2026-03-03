@@ -1,15 +1,27 @@
-import sumar from "./sumador";
+import Tennis from "./tennis.js";
 
-const first = document.querySelector("#primer-numero");
-const second = document.querySelector("#segundo-numero");
-const form = document.querySelector("#sumar-form");
-const div = document.querySelector("#resultado-div");
+const player1Input = document.querySelector("#player1");
+const player2Input = document.querySelector("#player2");
+const form = document.querySelector("#marcador-form");
+const resultadoDiv = document.querySelector("#resultado-div");
 
 form.addEventListener("submit", (event) => {
   event.preventDefault();
 
-  const firstNumber = Number.parseInt(first.value);
-  const secondNumber = Number.parseInt(second.value);
+  const puntosPlayer1 = Number.parseInt(player1Input.value);
+  const puntosPlayer2 = Number.parseInt(player2Input.value);
 
-  div.innerHTML = "<p>" + sumar(firstNumber, secondNumber) + "</p>";
+  const game = new Tennis();
+
+  // Simular puntos del player 1
+  for (let i = 0; i < puntosPlayer1; i++) {
+    game.player1Scores();
+  }
+
+  // Simular puntos del player 2
+  for (let i = 0; i < puntosPlayer2; i++) {
+    game.player2Scores();
+  }
+
+  resultadoDiv.textContent = game.score();
 });

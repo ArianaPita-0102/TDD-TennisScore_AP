@@ -494,9 +494,23 @@
     "testId": 16
   },
   {
-    "commitId": "HEAD",
+    "commitId": "c3c809eaf3d2e01b99722e88f74b1b72e2d99a03",
     "commitName": "fix: mejorar operador logico para determinar jugador ganador",
     "commitTimestamp": 1772506156174,
     "testId": 17
+  },
+  {
+    "numPassedTests": 15,
+    "failedTests": 0,
+    "numTotalTests": 15,
+    "timestamp": 1772506168639,
+    "success": true,
+    "testId": 18
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: add botones para actualizar puntos de jugadores",
+    "commitTimestamp": 1772507344137,
+    "testId": 18
   }
 ]
